@@ -1,0 +1,5 @@
+C:/code/extract_git/build/CMakeFiles/edit_cache.dir
+C:/code/extract_git/build/CMakeFiles/rebuild_cache.dir
+C:/code/extract_git/build/src/CMakeFiles/Extract.dir
+C:/code/extract_git/build/src/CMakeFiles/edit_cache.dir
+C:/code/extract_git/build/src/CMakeFiles/rebuild_cache.dir
